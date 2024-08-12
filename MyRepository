@@ -1,2 +1,6 @@
 hello everyone
+<<<<<<< HEAD
 myname is DevOps
+=======
+this is DevOps test file.
+>>>>>>> d278bffa63dded799cc8adc074a3448dd16e0727
